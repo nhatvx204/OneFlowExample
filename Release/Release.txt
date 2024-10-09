@@ -5,3 +5,4 @@ Finish hotfix
 preparing release 0.2.0
 Adding something for new version
 Finish update 0.2.0
+Updating 0.3.0
