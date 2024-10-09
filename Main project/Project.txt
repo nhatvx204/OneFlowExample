@@ -2,3 +2,4 @@ Start project
 Doing project
 Still doing
 Adding something to project
+Fixing something in project
