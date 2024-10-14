@@ -6,9 +6,3 @@ Fixing something in project
 Add something
 Doing something again
 Still doing it
-Add levels
-Add mechanics
-Add levels
-Change assets
-Add levels
-Doing something
