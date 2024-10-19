@@ -7,5 +7,3 @@ Add something
 Doing something again
 Still doing it
 Add levels
-Add levels
-Doing something
