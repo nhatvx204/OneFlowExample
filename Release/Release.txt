@@ -1,7 +1,8 @@
-Release
+Release 
 Hotfix 0.1.1
 Fixing
 Finish hotfix
 preparing release 0.2.0
 Adding something for new version
 Finish update 0.2.0
+Doing 2.0.0
